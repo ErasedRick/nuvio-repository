@@ -1,7 +1,0 @@
-{
-  "name": "ErasedRick Addons",
-  "description": "Provider italiani per Nuvio",
-  "manifests": [
-    "https://raw.githubusercontent.com/ErasedRick/nuvio-repository/main/community-manifest.json"
-  ]
-}
