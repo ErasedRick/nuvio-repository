@@ -1,0 +1,12 @@
+[
+  {
+    "id": "it.streamingcommunity.plugin",
+    "name": "StreamingCommunity IT",
+    "description": "Provider film e serie TV in streaming per Nuvio",
+    "version": "1.0.0",
+    "author": "Riccardo",
+    "url": "https://raw.githubusercontent.com/ErasedRick/nuvio-repository/main/streamingcommunity.js",
+    "type": "provider",
+    "languages": ["it"]
+  }
+]
